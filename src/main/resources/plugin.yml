@@ -1,0 +1,4 @@
+name: OnlinePlayers
+main: eu.hiddenite.onlineplayers.OnlinePlayersPlugin
+version: 1.0.0
+author: Hiddenite

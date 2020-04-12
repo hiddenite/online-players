@@ -1,0 +1,14 @@
+# Information about the MySQL database and table.
+# The table must have the following columns:
+# - id (INT, primary key)
+# - creation_date (DATETIME)
+# - players_count (INT)
+# - players_data (TEXT)
+mysql:
+  host: "127.0.0.1"
+  user: "root"
+  password: ""
+  database: "my_server"
+  table: "online_players"
+# How often should the players be updated, in seconds.
+update-interval: 5
